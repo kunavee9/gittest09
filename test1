@@ -3,5 +3,8 @@ Terraform
 ADO pipeline
 ansible
 docker
+aws
+azure
+ebs
 Jenkins
 kubernetes
