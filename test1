@@ -9,6 +9,9 @@ resource manager
 ado
 virtual machines
 infrastructure
+----------------
+blocks
+---------------
 ebs
 cloud watch
 subscriptio
