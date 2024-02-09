@@ -5,6 +5,8 @@ ansible
 docker
 aws
 azure
+resource manager
+ado
 ebs
 Jenkins
 kubernetes
